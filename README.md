@@ -3,7 +3,7 @@
 
 ```
 # リポジトリのクローン
-git clone git@github.com:You-saku/Vue-cli-sandbox.git<
+git clone git@github.com:You-saku/Vue-cli-sandbox.git
 or
 git clone https://github.com/You-saku/Vue-cli-sandbox.git
 
